@@ -1,0 +1,115 @@
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminBookings.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminEvents.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminParticipants.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminUsers.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Form1.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Properties.Resources.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.GenerateResource.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfoInputs.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfo.cs
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.CoreCompileInputs.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.exe
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.deps.json
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.runtimeconfig.json
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.pdb
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\refint\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.pdb
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.genruntimeconfig.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\ref\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerBookings.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerEvents.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerParticipants.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantEvents.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantRegistrations.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminEvents.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Form1.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantDashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantRegistrations.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Properties.Resources.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.GenerateResource.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfoInputs.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfo.cs
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.CoreCompileInputs.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\refint\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.pdb
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.exe
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.deps.json
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.runtimeconfig.json
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.pdb
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.genruntimeconfig.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\ref\EventMGTNew.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminBookings.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.NewUser.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantsEvents.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.AssemblyReference.cache
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGT.F459A6CC.Up2Date
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Dashboard.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerBookings.resources
+C:\Users\ansyp\OneDrive\Desktop\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerEvents.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.exe
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.deps.json
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.runtimeconfig.json
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\EventMGTNew.pdb
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.AssemblyReference.cache
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminBookings.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminDashboard.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AdminEvents.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Dashboard.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Form1.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.NewUser.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerBookings.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerDashboard.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.OrganizerEvents.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantDashboard.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantRegistrations.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.ParticipantsEvents.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.Properties.Resources.resources
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.GenerateResource.cache
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfoInputs.cache
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.AssemblyInfo.cs
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.csproj.CoreCompileInputs.cache
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGT.F459A6CC.Up2Date
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\refint\EventMGTNew.dll
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.pdb
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\EventMGTNew.genruntimeconfig.cache
+D:\New folder (2)\SDAM PROJECT-2 - Copy\EventMGTNew\EventMGTNew\obj\Debug\net8.0-windows\ref\EventMGTNew.dll

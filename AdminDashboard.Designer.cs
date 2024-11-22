@@ -1,0 +1,376 @@
+﻿namespace EventMGTNew
+{
+    partial class AdminDashboard
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdminDashboard));
+            panel1 = new Panel();
+            label1 = new Label();
+            pictureBox2 = new PictureBox();
+            pictureBox3 = new PictureBox();
+            ham_btn = new PictureBox();
+            sidebar = new FlowLayoutPanel();
+            pnHome = new Panel();
+            button1 = new Button();
+            pnEvents = new Panel();
+            button2 = new Button();
+            pnBookings = new Panel();
+            button4 = new Button();
+            pnUser = new Panel();
+            button5 = new Button();
+            pnLogout = new Panel();
+            button6 = new Button();
+            SidebarTimer = new System.Windows.Forms.Timer(components);
+            panel2 = new Panel();
+            dashboard1 = new Dashboard();
+            adminEvents1 = new AdminEvents();
+            adminBookings1 = new AdminBookings();
+            newUser1 = new NewUser();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)ham_btn).BeginInit();
+            sidebar.SuspendLayout();
+            pnHome.SuspendLayout();
+            pnEvents.SuspendLayout();
+            pnBookings.SuspendLayout();
+            pnUser.SuspendLayout();
+            pnLogout.SuspendLayout();
+            panel2.SuspendLayout();
+            SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.CadetBlue;
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(pictureBox2);
+            panel1.Controls.Add(pictureBox3);
+            panel1.Controls.Add(ham_btn);
+            panel1.Dock = DockStyle.Top;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1335, 66);
+            panel1.TabIndex = 0;
+            panel1.MouseDown += mouse_Down;
+            panel1.MouseMove += mouse_Move;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Times New Roman", 28.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.Location = new Point(71, 7);
+            label1.Name = "label1";
+            label1.Size = new Size(381, 52);
+            label1.TabIndex = 1;
+            label1.Text = "Admin Dashboard";
+            label1.TextAlign = ContentAlignment.TopCenter;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Image = Properties.Resources.minimize_81;
+            pictureBox2.Location = new Point(1237, 12);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(46, 46);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 1;
+            pictureBox2.TabStop = false;
+            pictureBox2.Click += pictureBox2_Click;
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.Image = Properties.Resources._211652_close_icon1;
+            pictureBox3.Location = new Point(1289, 12);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(46, 46);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox3.TabIndex = 2;
+            pictureBox3.TabStop = false;
+            pictureBox3.Click += pictureBox3_Click;
+            // 
+            // ham_btn
+            // 
+            ham_btn.Image = Properties.Resources.more;
+            ham_btn.Location = new Point(12, 7);
+            ham_btn.Name = "ham_btn";
+            ham_btn.Size = new Size(53, 51);
+            ham_btn.SizeMode = PictureBoxSizeMode.StretchImage;
+            ham_btn.TabIndex = 0;
+            ham_btn.TabStop = false;
+            ham_btn.Click += ham_btn_Click;
+            // 
+            // sidebar
+            // 
+            sidebar.BackColor = SystemColors.ActiveCaptionText;
+            sidebar.Controls.Add(pnHome);
+            sidebar.Controls.Add(pnEvents);
+            sidebar.Controls.Add(pnBookings);
+            sidebar.Controls.Add(pnUser);
+            sidebar.Controls.Add(pnLogout);
+            sidebar.Dock = DockStyle.Left;
+            sidebar.Location = new Point(0, 66);
+            sidebar.Name = "sidebar";
+            sidebar.Size = new Size(252, 881);
+            sidebar.TabIndex = 1;
+            sidebar.Paint += sidebar_Paint;
+            // 
+            // pnHome
+            // 
+            pnHome.Controls.Add(button1);
+            pnHome.Location = new Point(3, 3);
+            pnHome.Name = "pnHome";
+            pnHome.Size = new Size(247, 88);
+            pnHome.TabIndex = 2;
+            // 
+            // button1
+            // 
+            button1.BackColor = SystemColors.ActiveCaptionText;
+            button1.FlatAppearance.BorderColor = Color.Red;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Font = new Font("Times New Roman", 18F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.White;
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.ImageAlign = ContentAlignment.MiddleLeft;
+            button1.Location = new Point(0, -5);
+            button1.Name = "button1";
+            button1.Size = new Size(247, 100);
+            button1.TabIndex = 3;
+            button1.Text = "     Home";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // pnEvents
+            // 
+            pnEvents.Controls.Add(button2);
+            pnEvents.Location = new Point(3, 97);
+            pnEvents.Name = "pnEvents";
+            pnEvents.Size = new Size(247, 88);
+            pnEvents.TabIndex = 3;
+            // 
+            // button2
+            // 
+            button2.BackColor = SystemColors.ActiveCaptionText;
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Times New Roman", 18F, FontStyle.Bold | FontStyle.Italic);
+            button2.ForeColor = Color.White;
+            button2.Image = (Image)resources.GetObject("button2.Image");
+            button2.ImageAlign = ContentAlignment.MiddleLeft;
+            button2.Location = new Point(0, -5);
+            button2.Name = "button2";
+            button2.Size = new Size(247, 100);
+            button2.TabIndex = 3;
+            button2.Text = "      Events";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
+            // 
+            // pnBookings
+            // 
+            pnBookings.Controls.Add(button4);
+            pnBookings.Location = new Point(3, 191);
+            pnBookings.Name = "pnBookings";
+            pnBookings.Size = new Size(247, 88);
+            pnBookings.TabIndex = 5;
+            // 
+            // button4
+            // 
+            button4.BackColor = SystemColors.ActiveCaptionText;
+            button4.FlatAppearance.BorderSize = 0;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Times New Roman", 18F, FontStyle.Bold | FontStyle.Italic);
+            button4.ForeColor = Color.White;
+            button4.Image = (Image)resources.GetObject("button4.Image");
+            button4.ImageAlign = ContentAlignment.MiddleLeft;
+            button4.Location = new Point(0, -5);
+            button4.Name = "button4";
+            button4.Size = new Size(247, 100);
+            button4.TabIndex = 3;
+            button4.Text = "     Bookings";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
+            // 
+            // pnUser
+            // 
+            pnUser.Controls.Add(button5);
+            pnUser.Location = new Point(3, 285);
+            pnUser.Name = "pnUser";
+            pnUser.Size = new Size(247, 88);
+            pnUser.TabIndex = 6;
+            // 
+            // button5
+            // 
+            button5.BackColor = SystemColors.ActiveCaptionText;
+            button5.FlatAppearance.BorderSize = 0;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Times New Roman", 18F, FontStyle.Bold | FontStyle.Italic);
+            button5.ForeColor = Color.White;
+            button5.Image = (Image)resources.GetObject("button5.Image");
+            button5.ImageAlign = ContentAlignment.MiddleLeft;
+            button5.Location = new Point(0, -5);
+            button5.Name = "button5";
+            button5.Size = new Size(247, 100);
+            button5.TabIndex = 3;
+            button5.Text = "     New-User";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
+            // pnLogout
+            // 
+            pnLogout.Controls.Add(button6);
+            pnLogout.Location = new Point(3, 379);
+            pnLogout.Name = "pnLogout";
+            pnLogout.Size = new Size(247, 88);
+            pnLogout.TabIndex = 7;
+            // 
+            // button6
+            // 
+            button6.BackColor = SystemColors.ActiveCaptionText;
+            button6.FlatAppearance.BorderSize = 0;
+            button6.FlatStyle = FlatStyle.Flat;
+            button6.Font = new Font("Times New Roman", 18F, FontStyle.Bold | FontStyle.Italic);
+            button6.ForeColor = Color.White;
+            button6.Image = (Image)resources.GetObject("button6.Image");
+            button6.ImageAlign = ContentAlignment.MiddleLeft;
+            button6.Location = new Point(0, -5);
+            button6.Name = "button6";
+            button6.Size = new Size(247, 100);
+            button6.TabIndex = 3;
+            button6.Text = "     Log-Out";
+            button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
+            // 
+            // SidebarTimer
+            // 
+            SidebarTimer.Interval = 10;
+            SidebarTimer.Tick += SidebarTimer_Tick;
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.FromArgb(34, 36, 49);
+            panel2.Controls.Add(dashboard1);
+            panel2.Controls.Add(adminEvents1);
+            panel2.Controls.Add(adminBookings1);
+            panel2.Controls.Add(newUser1);
+            panel2.Dock = DockStyle.Fill;
+            panel2.Location = new Point(252, 66);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(1083, 881);
+            panel2.TabIndex = 2;
+            // 
+            // dashboard1
+            // 
+            dashboard1.BackColor = Color.FromArgb(34, 36, 49);
+            dashboard1.Dock = DockStyle.Fill;
+            dashboard1.Location = new Point(0, 0);
+            dashboard1.Name = "dashboard1";
+            dashboard1.Size = new Size(1083, 881);
+            dashboard1.TabIndex = 3;
+            dashboard1.Load += dashboard1_Load_1;
+            // 
+            // adminEvents1
+            // 
+            adminEvents1.BackColor = Color.FromArgb(34, 36, 49);
+            adminEvents1.Dock = DockStyle.Fill;
+            adminEvents1.Location = new Point(0, 0);
+            adminEvents1.Name = "adminEvents1";
+            adminEvents1.Size = new Size(1083, 881);
+            adminEvents1.TabIndex = 2;
+            // 
+            // adminBookings1
+            // 
+            adminBookings1.BackColor = Color.FromArgb(34, 36, 49);
+            adminBookings1.Dock = DockStyle.Fill;
+            adminBookings1.Location = new Point(0, 0);
+            adminBookings1.Name = "adminBookings1";
+            adminBookings1.Size = new Size(1083, 881);
+            adminBookings1.TabIndex = 1;
+            // 
+            // newUser1
+            // 
+            newUser1.BackColor = Color.FromArgb(34, 36, 49);
+            newUser1.Dock = DockStyle.Fill;
+            newUser1.Location = new Point(0, 0);
+            newUser1.Name = "newUser1";
+            newUser1.Size = new Size(1083, 881);
+            newUser1.TabIndex = 0;
+            // 
+            // AdminDashboard
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlDarkDark;
+            ClientSize = new Size(1335, 947);
+            Controls.Add(panel2);
+            Controls.Add(sidebar);
+            Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "AdminDashboard";
+            StartPosition = FormStartPosition.CenterScreen;
+            Load += AdminDashboard_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)ham_btn).EndInit();
+            sidebar.ResumeLayout(false);
+            pnHome.ResumeLayout(false);
+            pnEvents.ResumeLayout(false);
+            pnBookings.ResumeLayout(false);
+            pnUser.ResumeLayout(false);
+            pnLogout.ResumeLayout(false);
+            panel2.ResumeLayout(false);
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Panel panel1;
+        private PictureBox ham_btn;
+        private PictureBox pictureBox2;
+        private PictureBox pictureBox3;
+        private Label label1;
+        private FlowLayoutPanel sidebar;
+        private Panel pnHome;
+        private Button button1;
+        private Panel pnEvents;
+        private Button button2;
+        private Panel pnBookings;
+        private Button button4;
+        private Panel pnUser;
+        private Button button5;
+        private Panel pnLogout;
+        private Button button6;
+        private System.Windows.Forms.Timer SidebarTimer;
+        private Panel panel2;
+        private NewUser newUser1;
+        private AdminBookings adminBookings1;
+        private Dashboard dashboard1;
+        private AdminEvents adminEvents1;
+    }
+}
